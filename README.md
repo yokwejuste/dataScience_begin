@@ -6,3 +6,4 @@
   
   Feell like you will have koki beans beans beside this? Feel free
   
+The main target off this repo is for the launch of the next hacktoberfest
